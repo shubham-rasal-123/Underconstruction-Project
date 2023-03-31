@@ -21,7 +21,7 @@
 
 ![Screenshot from 2023-03-31 22-13-34](https://user-images.githubusercontent.com/128680209/229180538-e7d0af4a-09b6-491d-baac-1b69c45a3f46.png)
 
-#### Step 2: Install the required modules using following command:
+#### 📥 Step 2: Install the required modules using following command:
 
   + `npm install express`
   + `npm install ejs`
@@ -71,6 +71,9 @@
 
 ## 📺 Output:
 
+![home page in underconstrunction project site](https://user-images.githubusercontent.com/128680209/229185321-b458eacc-06d5-4a6f-8e0b-6bc6e9735a69.png)
+
+![website is underconstruction in site](https://user-images.githubusercontent.com/128680209/229185383-8eb07c98-d21e-4e05-9ea4-e9d2d1370054.png)
 
 
 
