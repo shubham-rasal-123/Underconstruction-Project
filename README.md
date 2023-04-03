@@ -29,8 +29,8 @@
 
 #### Step 3: Create two folders inside the project directory using the following command:
 
-    + mkdir model
-    + mkdir views
+    + `mkdir model`
+    + `mkdir views`
 
 #### Step 4: Create another file named app.js inside project directory:
 
