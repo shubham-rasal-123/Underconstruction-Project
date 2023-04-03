@@ -13,7 +13,7 @@
 
 #### Steps to create project and install required module:
 
-+ step 1: Start the project using the following command in your project folder:
+#### step 1: Start the project using the following command in your project folder:
 
   + `npm init`
   
@@ -29,12 +29,12 @@
 
 #### Step 3: Create two folders inside the project directory using the following command:
 
-    + `mkdir model`
-    + `mkdir views`
++ `mkdir model`
++ `mkdir views`
 
 #### Step 4: Create another file named app.js inside project directory:
 
-    + `touch app.js`
++ `touch app.js`
     
 #### Step 5: Navigate inside middleware folder and create a file Uc-middleware.js which will contain our middleware
 
