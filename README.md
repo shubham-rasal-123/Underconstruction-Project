@@ -29,31 +29,31 @@
 
 #### Step 3: Create two folders inside the project directory using the following command:
 
-+ `mkdir model`
-+ `mkdir views`
++ mkdir model
++ mkdir views
 
 #### Step 4: Create another file named app.js inside project directory:
 
-+ `touch app.js`
++ touch app.js
     
 #### Step 5: Navigate inside middleware folder and create a file Uc-middleware.js which will contain our middleware
 
 + cd middlewares
 
-    +  `Uc-middleware.js`
+    +  Uc-middleware.js
     
 #### Step 6: Navigate inside views folder and create the following ejs files:
 
 + cd views
 
-    + `touch about.ejs`
-    + `touch home.ejs`
-    + `touch siteuc.ejs`
+    + touch about.ejs
+    + touch home.ejs
+    + touch siteuc.ejs
     
 + cd partials
 
-    + `touch footer.ejs`
-    + `touch header.ejs`
+    + touch footer.ejs
+    + touch header.ejs
 
 #### Step 7: Run the following command to ensure all modules are loaded:
 
